@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cars"
+        android:icon="@drawable/caricon"
+        android:title="Cars"/>
+
+    <item
+        android:id="@+id/songs"
+        android:icon="@drawable/music"
+        android:title="Songs"/>
+    <item
+        android:id="@+id/artists"
+        android:icon="@drawable/artisticon"
+        android:title="Artists"/>
+
+</menu>
