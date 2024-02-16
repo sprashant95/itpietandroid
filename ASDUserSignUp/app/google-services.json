@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817342786011",
+    "project_id": "fir-auth-93524",
+    "storage_bucket": "fir-auth-93524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817342786011:android:26a56a21b0e4647a289ffe",
+        "android_client_info": {
+          "package_name": "com.example.asdusersignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyYC7XBArXNdziFqyV0hEq0V-vMXTN-z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

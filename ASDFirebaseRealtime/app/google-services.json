@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513926220686",
+    "project_id": "asdfirebaserealtime",
+    "storage_bucket": "asdfirebaserealtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513926220686:android:ac1b724d20acf09ffb72df",
+        "android_client_info": {
+          "package_name": "com.example.asdfirebaserealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkrXenFZzTGO977JrQBSz1RX_R5vdQZhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

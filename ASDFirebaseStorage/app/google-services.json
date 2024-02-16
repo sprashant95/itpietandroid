@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "605018992647",
+    "firebase_url": "https://fir-db-41bd2-default-rtdb.firebaseio.com",
+    "project_id": "fir-db-41bd2",
+    "storage_bucket": "fir-db-41bd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605018992647:android:a761d434d63bb4316bfaa2",
+        "android_client_info": {
+          "package_name": "com.example.asdfirebasestorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy_Lg2gbsydhByFkTEg_xKzw3m6HOx7no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
