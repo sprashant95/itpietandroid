@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580020637282",
+    "project_id": "fir-authasd",
+    "storage_bucket": "fir-authasd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580020637282:android:58c8073862e71045304b3b",
+        "android_client_info": {
+          "package_name": "com.example.firebasesignin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9z7V3idb2de8dRx24IUFPdU00PQ_hYWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
